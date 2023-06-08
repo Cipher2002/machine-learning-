@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pd  # IMPORT TO READ DATA
 import numpy as np
 import sklearn
 from sklearn import linear_model
